@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nthiandior.github.io/sitemap.html
+Sitemap: https://nthiandior.github.io/app/sitemap.html
+Sitemap: https://nthiandior.github.io/assets/sitemap.html
+Sitemap: https://nthiandior.github.io/includes/sitemap.html
+Sitemap: https://nthiandior.github.io/src/sitemap.html
